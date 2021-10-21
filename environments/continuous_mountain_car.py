@@ -1,4 +1,4 @@
-'# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 @author: Olivier Sigaud
 A merge between two sources:
@@ -109,12 +109,15 @@ class Continuous_MountainCarEnv(gym.Env):
         # Convert a possible numpy bool to a Python bool.
         done = bool(position >= self.goal_position and velocity >= self.goal_velocity)
         #acceleration_reward = 0.1
+        self.acceleration_reward = 1
         if not done:
           self.step_reward =-0.5
-          self.acceleration_reward -= math.pow(action[0], 2)*.01
-          #acceleration_reward -= math.pow(action[0], 2)*.1
+          self.acceleration_reward -= math.pow(action[0], 2)
+          self.step_count += 1
+          
         else:
           self.step_reward =100
+          self.acceleration_reward = 200 - self.step_count -1
           
           
         
