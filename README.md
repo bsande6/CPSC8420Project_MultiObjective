@@ -68,8 +68,6 @@ If an error regarding array dimensions occurs please uninstall and then reinstal
   ```
   python scripts/plot/training_visualize_2d.py --env MO-ContinuousMountainCar-v2 --log-dir ./results/Continuous_Mountain_Car-V2/pgmorl/0/
   ```
-  
-  It will plot the policy population (gray points) in each generation with some other useful information. The black points are the policies on the Pareto front, the green circles are the selected policies to be optimized in next generation, the red points are the predicted offsprings and the green points are the real offsprings. You can interact with the plot with the keyboard. For example, be pressing left/right, you can evolve the policy population by generation. You can refer to the plot scripts for the full description of the allowable operations.
 
 
 ## Acknowledgement
