@@ -1,5 +1,6 @@
+Brad Sanders
 # CPSC8420 Project Phase2
-
+For this project I completed option B and extended an existing algorithm to a new environment.
 This repository contains the implementation of the paper [Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control] to the MountainCarContinuous environment from OPENAIGYM
 
 
