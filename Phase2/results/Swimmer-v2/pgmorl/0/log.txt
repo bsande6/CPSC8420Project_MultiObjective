@@ -1,0 +1,242 @@
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+[<task.Task object at 0x1508f279f0d0>, <task.Task object at 0x1508eb387910>, <task.Task object at 0x1508e7088650>, <task.Task object at 0x1508e7020790>, <task.Task object at 0x1508e70192d0>, <task.Task object at 0x1508eb3a9510>]
+offspring [<sample.Sample object at 0x1508e70416d0>, <sample.Sample object at 0x1508e6c519d0>, <sample.Sample object at 0x1508e6bd06d0>, <sample.Sample object at 0x1508e715c410>, <sample.Sample object at 0x1508e6c98cd0>, <sample.Sample object at 0x1508e6c316d0>, <sample.Sample object at 0x1508e6e21550>, <sample.Sample object at 0x1508e6e99890>, <sample.Sample object at 0x1508e6f8b2d0>, <sample.Sample object at 0x1508e6304590>, <sample.Sample object at 0x1508e671bf50>, <sample.Sample object at 0x1508e7135750>, <sample.Sample object at 0x1508e6fe5950>, <sample.Sample object at 0x1508e7160250>, <sample.Sample object at 0x1508eb25e7d0>, <sample.Sample object at 0x1508e6292310>, <sample.Sample object at 0x1508e6a852d0>, <sample.Sample object at 0x1508e64eb910>, <sample.Sample object at 0x1508e641f050>, <sample.Sample object at 0x1508e6f37e90>, <sample.Sample object at 0x1508e6873310>, <sample.Sample object at 0x1508eb34f590>, <sample.Sample object at 0x1508e677d410>, <sample.Sample object at 0x1508e6707210>]
+[96m Selected Tasks: [0m
+[96m objs = [87.96210195 60.26325634], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [87.96210195 60.26325634], weight = tensor([1., 0.]) [0m
+[96m objs = [60.75770928 71.08184169], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [87.96210195 60.26325634], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 44.22367027 148.34297756], weight = tensor([0.4916, 0.5084]) [0m
+[96m objs = [87.96210195 60.26325634], weight = tensor([0.6340, 0.3660]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   1 -------------------- [0m
+[<task.Task object at 0x1508f279ffd0>, <task.Task object at 0x1508f279f750>, <task.Task object at 0x1508eb25e890>, <task.Task object at 0x1508e45acd10>, <task.Task object at 0x1508e45ace90>, <task.Task object at 0x1508e469de90>]
+offspring [<sample.Sample object at 0x1508e67c2a90>, <sample.Sample object at 0x1508e6a8d790>, <sample.Sample object at 0x1508e4822510>, <sample.Sample object at 0x1508e58e2d50>, <sample.Sample object at 0x1508e6d728d0>, <sample.Sample object at 0x1508e663ab50>]
+[96m Selected Tasks: [0m
+[96m objs = [125.92420338 102.72767671], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ -7.07427171 149.85362079], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ -7.07427171 149.85362079], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ -7.07427171 149.85362079], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ -7.07427171 149.85362079], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [ -7.16822861 149.78981693], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   2 -------------------- [0m
+[<task.Task object at 0x1508eb272150>, <task.Task object at 0x1508e46e1490>, <task.Task object at 0x1508e469d0d0>, <task.Task object at 0x1508e48d7190>, <task.Task object at 0x1508e463d050>, <task.Task object at 0x1508e463dad0>]
+offspring [<sample.Sample object at 0x1508e6bea710>, <sample.Sample object at 0x1508e6ce7f50>, <sample.Sample object at 0x1508e4658e50>, <sample.Sample object at 0x1508e64c0710>, <sample.Sample object at 0x1508e68e3910>, <sample.Sample object at 0x1508e469de90>]
+[96m Selected Tasks: [0m
+[96m objs = [128.44193814 118.58577631], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [128.44193814 118.58577631], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ -1.65704428 149.78789059], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [ -1.65704428 149.78789059], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ -1.65704428 149.78789059], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ -1.65704428 149.78789059], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   3 -------------------- [0m
+[<task.Task object at 0x1508e5fdf710>, <task.Task object at 0x1508e6d54690>, <task.Task object at 0x1508e4681d10>, <task.Task object at 0x1508eb255590>, <task.Task object at 0x1508e6c46b90>, <task.Task object at 0x1508e6ce2190>]
+offspring [<sample.Sample object at 0x1508e62fad90>, <sample.Sample object at 0x1508e47bedd0>, <sample.Sample object at 0x1508e6c46250>, <sample.Sample object at 0x1508e711b910>, <sample.Sample object at 0x1508e6fa2150>, <sample.Sample object at 0x1508e6a67910>]
+[96m Selected Tasks: [0m
+[96m objs = [203.88957688  91.79053189], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [203.88957688  91.79053189], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 16.83005049 145.36567835], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [128.44193814 118.58577631], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [207.72824482  79.54001167], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [125.92420338 102.72767671], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   4 -------------------- [0m
+[<task.Task object at 0x1508f279f590>, <task.Task object at 0x1508e46e12d0>, <task.Task object at 0x1508e6e13890>, <task.Task object at 0x1508e45cc590>, <task.Task object at 0x1508e5e60790>, <task.Task object at 0x1508e68e3350>]
+offspring [<sample.Sample object at 0x1508e4735050>, <sample.Sample object at 0x1508e5626690>, <sample.Sample object at 0x1508e4658dd0>, <sample.Sample object at 0x1508e6a27b10>, <sample.Sample object at 0x1508e6c46650>, <sample.Sample object at 0x1508e6707c10>]
+[96m Selected Tasks: [0m
+[96m objs = [218.85803547  86.89831381], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [203.88957688  91.79053189], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [128.44193814 118.58577631], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [193.28832789 110.04642212], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 22.34836704 148.06341439], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [218.85803547  86.89831381], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   5 -------------------- [0m
+[<task.Task object at 0x1508eb255450>, <task.Task object at 0x1508e7147410>, <task.Task object at 0x1508e6f90350>, <task.Task object at 0x1508e6f90750>, <task.Task object at 0x1508e6ad8a90>, <task.Task object at 0x1508e658be10>]
+offspring [<sample.Sample object at 0x1508e6fb5dd0>, <sample.Sample object at 0x1508e705d890>, <sample.Sample object at 0x1508e6832910>, <sample.Sample object at 0x1508eb354b10>, <sample.Sample object at 0x1508e5fdf990>, <sample.Sample object at 0x1508e6eb2650>]
+[96m Selected Tasks: [0m
+[96m objs = [246.28318672  49.290923  ], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [147.26129709 132.27439704], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [147.26129709 132.27439704], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [246.28318672  49.290923  ], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [147.26129709 132.27439704], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [182.22913783 116.08460293], weight = tensor([0.2113, 0.7887]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   6 -------------------- [0m
+[<task.Task object at 0x1508eb255f10>, <task.Task object at 0x1508e6a30210>, <task.Task object at 0x1508e6d5de50>, <task.Task object at 0x1508e6c1e890>, <task.Task object at 0x1508e4822b90>, <task.Task object at 0x1508e6cfd890>]
+offspring [<sample.Sample object at 0x1508e6f7c910>, <sample.Sample object at 0x1508e7041250>, <sample.Sample object at 0x1508e45a4710>, <sample.Sample object at 0x1508e6c46750>, <sample.Sample object at 0x1508e67ea450>, <sample.Sample object at 0x1508e708b8d0>]
+[96m Selected Tasks: [0m
+[96m objs = [246.28318672  49.290923  ], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [124.61572046 139.23330111], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [124.61572046 139.23330111], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [240.37826337  63.65430641], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [186.10231688 117.51677929], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [248.70127163  51.27403536], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   7 -------------------- [0m
+[<task.Task object at 0x1508e6f90050>, <task.Task object at 0x1508e4543b50>, <task.Task object at 0x1508eb396050>, <task.Task object at 0x1508e5e60fd0>, <task.Task object at 0x1508e6bcbc50>, <task.Task object at 0x1508e47ddd50>]
+offspring [<sample.Sample object at 0x1508e4d83e90>, <sample.Sample object at 0x1508e5e719d0>, <sample.Sample object at 0x1508e70a5850>, <sample.Sample object at 0x1508e4d832d0>, <sample.Sample object at 0x1508e46c4a50>, <sample.Sample object at 0x1508e58e2990>]
+[96m Selected Tasks: [0m
+[96m objs = [181.20439155 118.87785551], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [193.28832789 110.04642212], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [181.20439155 118.87785551], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [225.11794508  78.96372521], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [138.72630555 136.6157563 ], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [181.20439155 118.87785551], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   8 -------------------- [0m
+[<task.Task object at 0x1508eb2d18d0>, <task.Task object at 0x1508e6f90ed0>, <task.Task object at 0x1508e6f90550>, <task.Task object at 0x1508e6beaf10>, <task.Task object at 0x1508e70204d0>, <task.Task object at 0x1508e5cabad0>]
+offspring [<sample.Sample object at 0x1508e658b590>, <sample.Sample object at 0x1508e715c610>, <sample.Sample object at 0x1508e6e13950>, <sample.Sample object at 0x1508e7020610>, <sample.Sample object at 0x1508e6a7a8d0>, <sample.Sample object at 0x1508e6f7fa10>]
+[96m Selected Tasks: [0m
+[96m objs = [181.20439155 118.87785551], weight = tensor([7.2737e-16, 1.0000e+00]) [0m
+[96m objs = [256.29679633  32.52929763], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [167.64653904 128.25970049], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [207.95449681  99.74851156], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [186.10231688 117.51677929], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [207.95449681  99.74851156], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   9 -------------------- [0m
+[<task.Task object at 0x1508e5e60050>, <task.Task object at 0x1508e6841990>, <task.Task object at 0x1508e6b8d390>, <task.Task object at 0x1508e715cbd0>, <task.Task object at 0x1508e715c290>, <task.Task object at 0x1508e6d67890>]
+offspring [<sample.Sample object at 0x1508eb25ead0>, <sample.Sample object at 0x1508e6be1350>, <sample.Sample object at 0x1508e6c67190>, <sample.Sample object at 0x1508e6849d50>, <sample.Sample object at 0x1508e48d7450>, <sample.Sample object at 0x1508e710c0d0>]
+[96m Selected Tasks: [0m
+[96m objs = [ 22.34836704 148.06341439], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [256.29679633  32.52929763], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [167.64653904 128.25970049], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [ 84.47046992 144.34055146], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [137.8210053  137.95061314], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [248.70127163  51.27403536], weight = tensor([0.6340, 0.3660]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  10 -------------------- [0m
+[<task.Task object at 0x1508eb273b50>, <task.Task object at 0x1508e45a4f50>, <task.Task object at 0x1508e7073550>, <task.Task object at 0x1508e6a7af50>, <task.Task object at 0x1508e6ec4cd0>, <task.Task object at 0x1508eb35f3d0>]
+offspring [<sample.Sample object at 0x1508e63b22d0>, <sample.Sample object at 0x1508e6953e90>, <sample.Sample object at 0x1508e58e2c90>, <sample.Sample object at 0x1508e6b6f6d0>, <sample.Sample object at 0x1508e45acc10>, <sample.Sample object at 0x1508e67f70d0>]
+[96m Selected Tasks: [0m
+[96m objs = [ 22.34836704 148.06341439], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [ 84.47046992 144.34055146], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [219.34953218  90.33510851], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [219.34953218  90.33510851], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [137.8210053  137.95061314], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [150.63248414 134.68980012], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  11 -------------------- [0m
+[<task.Task object at 0x1508eb387e10>, <task.Task object at 0x1508e706b7d0>, <task.Task object at 0x1508e64ebc10>, <task.Task object at 0x1508e4751790>, <task.Task object at 0x1508e6c85050>, <task.Task object at 0x1508e68e3f90>]
+offspring [<sample.Sample object at 0x1508e45a4310>, <sample.Sample object at 0x1508e58b6590>, <sample.Sample object at 0x1508e6fa2fd0>, <sample.Sample object at 0x1508e705d810>, <sample.Sample object at 0x1508e708ba90>, <sample.Sample object at 0x1508e6b6fc10>]
+[96m Selected Tasks: [0m
+[96m objs = [ 73.66789268 147.34065623], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 73.66789268 147.34065623], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [212.33936504  93.34779322], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [212.33936504  93.34779322], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [212.33936504  93.34779322], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [ 84.47046992 144.34055146], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  12 -------------------- [0m
+[<task.Task object at 0x1508eb273b10>, <task.Task object at 0x1508e48227d0>, <task.Task object at 0x1508e6849a10>, <task.Task object at 0x1508e6849650>, <task.Task object at 0x1508e4865a90>, <task.Task object at 0x1508e6889450>]
+offspring [<sample.Sample object at 0x1508e6889c10>, <sample.Sample object at 0x1508e6a67e50>, <sample.Sample object at 0x1508e6e13a50>, <sample.Sample object at 0x1508e6b8d450>, <sample.Sample object at 0x1508e6cac3d0>, <sample.Sample object at 0x1508e47b8fd0>]
+[96m Selected Tasks: [0m
+[96m objs = [207.95449681  99.74851156], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [234.49106994  71.96698185], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [234.49106994  71.96698185], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [234.49106994  71.96698185], weight = tensor([ 1.0000e+00, -1.6653e-16]) [0m
+[96m objs = [234.49106994  71.96698185], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [207.95449681  99.74851156], weight = tensor([0.2113, 0.7887]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  13 -------------------- [0m
+[<task.Task object at 0x1508e63a7210>, <task.Task object at 0x1508e457af90>, <task.Task object at 0x1508e457a550>, <task.Task object at 0x1508e628b6d0>, <task.Task object at 0x1508eb35ffd0>, <task.Task object at 0x1508e6849c90>]
+offspring [<sample.Sample object at 0x1508e6cbeb50>, <sample.Sample object at 0x1508e7060bd0>, <sample.Sample object at 0x1508e6635910>, <sample.Sample object at 0x1508e5e6c2d0>, <sample.Sample object at 0x1508e712ea10>, <sample.Sample object at 0x1508e6e9f650>]
+[96m Selected Tasks: [0m
+[96m objs = [225.11794508  78.96372521], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 38.86714291 149.5391608 ], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [225.11794508  78.96372521], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [136.2650379  139.23322542], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [232.67482983  76.5738562 ], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [220.37227203  90.81758677], weight = tensor([0.6340, 0.3660]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  14 -------------------- [0m
+[<task.Task object at 0x1508eb35f310>, <task.Task object at 0x1508e6791c50>, <task.Task object at 0x1508e6bf6510>, <task.Task object at 0x1508e6fe5110>, <task.Task object at 0x1508eb2cbf10>, <task.Task object at 0x1508e70ff350>]
+offspring [<sample.Sample object at 0x1508e6523d10>, <sample.Sample object at 0x1508e7154290>, <sample.Sample object at 0x1508e6c85a90>, <sample.Sample object at 0x1508e45a4450>, <sample.Sample object at 0x1508eb26ed10>, <sample.Sample object at 0x1508e706c9d0>]
+[96m Selected Tasks: [0m
+[96m objs = [ 28.94327863 149.75521098], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [127.48850022 140.87425736], weight = tensor([7.2737e-16, 1.0000e+00]) [0m
+[96m objs = [225.61674706  81.25475492], weight = tensor([ 1.0000e+00, -3.3307e-16]) [0m
+[96m objs = [234.49106994  71.96698185], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 93.54351643 144.98646027], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [150.63248414 134.68980012], weight = tensor([7.2737e-16, 1.0000e+00]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  15 -------------------- [0m
+[<task.Task object at 0x1508eb35fc50>, <task.Task object at 0x1508e6a99c50>, <task.Task object at 0x1508e6a997d0>, <task.Task object at 0x1508e69f5dd0>, <task.Task object at 0x1508e70a5ad0>, <task.Task object at 0x1508e64eba90>]
+offspring [<sample.Sample object at 0x1508e47afc90>, <sample.Sample object at 0x1508e705dc90>, <sample.Sample object at 0x1508f279f750>, <sample.Sample object at 0x1508e4580590>, <sample.Sample object at 0x1508e6c67a10>, <sample.Sample object at 0x1508e6873c10>]
+[96m Selected Tasks: [0m
+[96m objs = [ 84.64817653 146.35164946], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [248.72380241  44.90231782], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 98.37789884 143.11995935], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 98.37789884 143.11995935], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 38.86714291 149.5391608 ], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [140.35209064 138.57638684], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  16 -------------------- [0m
+[<task.Task object at 0x1508e6c736d0>, <task.Task object at 0x1508e4751d50>, <task.Task object at 0x1508e6c3e450>, <task.Task object at 0x1508e6cf53d0>, <task.Task object at 0x1508e4830cd0>, <task.Task object at 0x1508e4830090>]
+offspring [<sample.Sample object at 0x1508e711bb10>, <sample.Sample object at 0x1508e6c31350>, <sample.Sample object at 0x1508e693ee90>, <sample.Sample object at 0x1508e5f73850>, <sample.Sample object at 0x1508e64febd0>, <sample.Sample object at 0x1508e6f8bd90>]
+[96m Selected Tasks: [0m
+[96m objs = [ 59.60287836 147.4962915 ], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [116.26923323 140.47762036], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [256.29679633  32.52929763], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 93.54351643 144.98646027], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 38.86714291 149.5391608 ], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [194.60080848 111.95256698], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  17 -------------------- [0m
+[<task.Task object at 0x1508e6c73210>, <task.Task object at 0x1508e6c46a10>, <task.Task object at 0x1508e482e550>, <task.Task object at 0x1508eb3630d0>, <task.Task object at 0x1508e6635a50>, <task.Task object at 0x1508e45a43d0>]
+offspring [<sample.Sample object at 0x1508e627ec10>, <sample.Sample object at 0x1508e6a85510>, <sample.Sample object at 0x1508e7088e50>, <sample.Sample object at 0x1508e6649d90>, <sample.Sample object at 0x1508eb272450>, <sample.Sample object at 0x1508e64da5d0>]
+[96m Selected Tasks: [0m
+[96m objs = [250.36715203  43.40813093], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [250.36715203  43.40813093], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [ 73.66789268 147.34065623], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [250.36715203  43.40813093], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [124.61572046 139.23330111], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ -1.65704428 149.78789059], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  18 -------------------- [0m
+[<task.Task object at 0x1508e45a4ed0>, <task.Task object at 0x1508e6649590>, <task.Task object at 0x1508e7154ad0>, <task.Task object at 0x1508e63eced0>, <task.Task object at 0x1508e5fdf3d0>, <task.Task object at 0x1508e47085d0>]
+offspring [<sample.Sample object at 0x1508e69b8150>, <sample.Sample object at 0x1508e6d7a050>, <sample.Sample object at 0x1508e6688710>, <sample.Sample object at 0x1508e6e210d0>, <sample.Sample object at 0x1508e64085d0>, <sample.Sample object at 0x1508e6bee310>]
+[96m Selected Tasks: [0m
+[96m objs = [136.2650379  139.23322542], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [129.33042176 140.30118728], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 30.15066036 149.74249523], weight = tensor([5.0532e-16, 1.0000e+00]) [0m
+[96m objs = [229.21485594  79.37170195], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 37.55426727 149.73468925], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [204.58773057 104.94298783], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  19 -------------------- [0m
+[<task.Task object at 0x1508e47be6d0>, <task.Task object at 0x1508e6d7a390>, <task.Task object at 0x1508eb273ad0>, <task.Task object at 0x1508e705c6d0>, <task.Task object at 0x1508e6964250>, <task.Task object at 0x1508e4830850>]
+offspring [<sample.Sample object at 0x1508e5e43510>, <sample.Sample object at 0x1508e56277d0>, <sample.Sample object at 0x1508e6d08ad0>, <sample.Sample object at 0x1508e65235d0>, <sample.Sample object at 0x1508e6c853d0>, <sample.Sample object at 0x1508e46a6d10>]
+[96m Selected Tasks: [0m
+[96m objs = [202.80500104 104.39724205], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [204.58773057 104.94298783], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [204.58773057 104.94298783], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 23.80383345 149.88260815], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [127.48850022 140.87425736], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [205.46807492 104.14613384], weight = tensor([0.6340, 0.3660]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  20 -------------------- [0m
+[<task.Task object at 0x1508e47be490>, <task.Task object at 0x1508e4d11dd0>, <task.Task object at 0x1508e4874890>, <task.Task object at 0x1508e6b6f350>, <task.Task object at 0x1508e6d72650>, <task.Task object at 0x1508e66a3d10>]
+offspring [<sample.Sample object at 0x1508e6b6fe10>, <sample.Sample object at 0x1508e4923b50>, <sample.Sample object at 0x1508e6fe5690>, <sample.Sample object at 0x1508e63e9710>, <sample.Sample object at 0x1508e6a70110>, <sample.Sample object at 0x1508e6130590>]
+[96m Selected Tasks: [0m
+[96m objs = [ 20.33371053 149.92863354], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [164.9902449  128.57530368], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [226.14809753  84.40949571], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 20.33371053 149.92863354], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [157.29177899 131.64989516], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 44.22367027 148.34297756], weight = tensor([0.2000, 0.8000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  21 -------------------- [0m
+[<task.Task object at 0x1508e5cab650>, <task.Task object at 0x1508e6aa0750>, <task.Task object at 0x1508e715c990>, <task.Task object at 0x1508e6dcaa10>, <task.Task object at 0x1508e69b8d90>, <task.Task object at 0x1508e6d54e10>]
+offspring []
+[96m Selected Tasks: [0m
+[96m objs = [ 20.33371053 149.92863354], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [164.9902449  128.57530368], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [226.14809753  84.40949571], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 20.33371053 149.92863354], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [157.29177899 131.64989516], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 44.22367027 148.34297756], weight = tensor([0.2000, 0.8000]) [0m

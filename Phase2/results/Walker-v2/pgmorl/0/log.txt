@@ -1,0 +1,280 @@
+[96m 
+------------------------------- Warm-up Stage ------------------------------- [0m
+process [<Process(Process-25, started)>, <Process(Process-26, started)>, <Process(Process-27, started)>, <Process(Process-28, started)>, <Process(Process-29, started)>, <Process(Process-30, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1298.571453   1086.22441968], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1298.571453   1086.22441968], weight = tensor([1., 0.]) [0m
+[96m objs = [1298.571453   1086.22441968], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1298.571453   1086.22441968], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 604.67200671 2109.66433283], weight = tensor([0.6430, 0.3570]) [0m
+[96m objs = [ 604.67200671 2109.66433283], weight = tensor([0.3750, 0.6250]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   1 -------------------- [0m
+process [<Process(Process-31, started)>, <Process(Process-32, started)>, <Process(Process-33, started)>, <Process(Process-34, started)>, <Process(Process-35, started)>, <Process(Process-36, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1150.50642591 1409.52615423], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 610.06019398 2268.76588664], weight = tensor([0.2224, 0.7776]) [0m
+[96m objs = [ 697.13934174 2139.4882321 ], weight = tensor([0.8000, 0.2000]) [0m
+[96m objs = [1150.50642591 1409.52615423], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1347.45158263 1173.7917196 ], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 697.13934174 2139.4882321 ], weight = tensor([0.6430, 0.3570]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   2 -------------------- [0m
+process [<Process(Process-37, started)>, <Process(Process-38, started)>, <Process(Process-39, started)>, <Process(Process-40, started)>, <Process(Process-41, started)>, <Process(Process-42, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1203.73377352 1764.31723022], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1447.10428321 1314.08837614], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1326.5413625  1556.16431423], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1203.73377352 1764.31723022], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1203.73377352 1764.31723022], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1447.10428321 1314.08837614], weight = tensor([0.6340, 0.3660]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   3 -------------------- [0m
+process [<Process(Process-43, started)>, <Process(Process-44, started)>, <Process(Process-45, started)>, <Process(Process-46, started)>, <Process(Process-47, started)>, <Process(Process-48, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1478.72769264 1544.64239193], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1323.5784257  1870.39724831], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1323.5784257  1870.39724831], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1480.70686903 1625.59643185], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1323.5784257  1870.39724831], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [ 830.79386421 2124.28913594], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   4 -------------------- [0m
+process [<Process(Process-49, started)>, <Process(Process-50, started)>, <Process(Process-51, started)>, <Process(Process-52, started)>, <Process(Process-53, started)>, <Process(Process-54, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1376.95063897 1962.41963302], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [1095.39560949 2171.88823062], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1535.62001405 1793.26989894], weight = tensor([ 1.0000e+00, -1.6653e-16]) [0m
+[96m objs = [1095.39560949 2171.88823062], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1095.39560949 2171.88823062], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1095.39560949 2171.88823062], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   5 -------------------- [0m
+process [<Process(Process-55, started)>, <Process(Process-56, started)>, <Process(Process-57, started)>, <Process(Process-58, started)>, <Process(Process-59, started)>, <Process(Process-60, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1583.37344071 1655.90400776], weight = tensor([ 1.0000e+00, -1.1102e-16]) [0m
+[96m objs = [1535.62001405 1793.26989894], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1687.78834591 1552.47684706], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1258.85720391 2099.06127338], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1258.85720391 2099.06127338], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1258.85720391 2099.06127338], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   6 -------------------- [0m
+process [<Process(Process-61, started)>, <Process(Process-62, started)>, <Process(Process-63, started)>, <Process(Process-64, started)>, <Process(Process-65, started)>, <Process(Process-66, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1690.4378112  1522.13121952], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 881.63328904 2239.23573212], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1604.63192581 1857.66231547], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [1604.63192581 1857.66231547], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 710.68462072 2201.70624787], weight = tensor([0.5084, 0.4916]) [0m
+[96m objs = [1525.21613867 1967.78616491], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   7 -------------------- [0m
+process [<Process(Process-67, started)>, <Process(Process-68, started)>, <Process(Process-69, started)>, <Process(Process-70, started)>, <Process(Process-71, started)>, <Process(Process-72, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1765.00939086 1592.38205405], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [1690.64103607 1867.75220069], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 792.72754045 2317.99020609], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1690.64103607 1867.75220069], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1572.11765753 2015.02502717], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1690.64103607 1867.75220069], weight = tensor([ 1.0000e+00, -2.7756e-16]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   8 -------------------- [0m
+process [<Process(Process-73, started)>, <Process(Process-74, started)>, <Process(Process-75, started)>, <Process(Process-76, started)>, <Process(Process-77, started)>, <Process(Process-78, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1810.7633604  1663.84677408], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [ 881.63328904 2239.23573212], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1689.37387169 1955.55407356], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 503.51259736 2490.60047815], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1603.77111043 2002.40233843], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 720.47909312 2340.70385376], weight = tensor([0.6340, 0.3660]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation   9 -------------------- [0m
+process [<Process(Process-79, started)>, <Process(Process-80, started)>, <Process(Process-81, started)>, <Process(Process-82, started)>, <Process(Process-83, started)>, <Process(Process-84, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1859.88961683 1584.87497862], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [1717.1735213  1968.43568178], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 516.48458719 2192.15907411], weight = tensor([0.9394, 0.0606]) [0m
+[96m objs = [1859.88961683 1584.87497862], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 720.47909312 2340.70385376], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [ 792.72754045 2317.99020609], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  10 -------------------- [0m
+process [<Process(Process-85, started)>, <Process(Process-86, started)>, <Process(Process-87, started)>, <Process(Process-88, started)>, <Process(Process-89, started)>, <Process(Process-90, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1906.15321801 1476.89662433], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [1856.5840286  1725.88924962], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1612.1869798  2049.85618933], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1856.5840286  1725.88924962], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 503.51259736 2490.60047815], weight = tensor([0.3570, 0.6430]) [0m
+[96m objs = [ 610.06019398 2268.76588664], weight = tensor([0.6430, 0.3570]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  11 -------------------- [0m
+process [<Process(Process-91, started)>, <Process(Process-92, started)>, <Process(Process-93, started)>, <Process(Process-94, started)>, <Process(Process-95, started)>, <Process(Process-96, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1913.5718605  1691.97851228], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [1680.5965953  2038.66814095], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1867.89021255 1795.23930838], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1612.1869798  2049.85618933], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [ 881.63328904 2239.23573212], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 503.34779764 2491.69027307], weight = tensor([0.2000, 0.8000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  12 -------------------- [0m
+process [<Process(Process-97, started)>, <Process(Process-98, started)>, <Process(Process-99, started)>, <Process(Process-100, started)>, <Process(Process-101, started)>, <Process(Process-102, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1975.61702899 1549.29135435], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [1579.45635556 2101.40376021], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1877.96420556 1831.48389552], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1877.96420556 1831.48389552], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 911.47337779 2278.46701776], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 692.7622201  2372.58648711], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  13 -------------------- [0m
+process [<Process(Process-103, started)>, <Process(Process-104, started)>, <Process(Process-105, started)>, <Process(Process-106, started)>, <Process(Process-107, started)>, <Process(Process-108, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2009.8806026  1505.25219408], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [ 956.15957738 2278.0653055 ], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1934.05448724 1767.20705016], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 956.15957738 2278.0653055 ], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 956.15957738 2278.0653055 ], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1567.43847513 2118.45022363], weight = tensor([0.2113, 0.7887]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  14 -------------------- [0m
+process [<Process(Process-109, started)>, <Process(Process-110, started)>, <Process(Process-111, started)>, <Process(Process-112, started)>, <Process(Process-113, started)>, <Process(Process-114, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2015.07023846 1504.62325248], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [1866.25909142 1875.09521332], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1964.7147752  1743.02408082], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 682.56283132 2405.41325634], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1569.56080951 2126.19270443], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1331.18992278 2101.05306312], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  15 -------------------- [0m
+process [<Process(Process-115, started)>, <Process(Process-116, started)>, <Process(Process-117, started)>, <Process(Process-118, started)>, <Process(Process-119, started)>, <Process(Process-120, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2048.09432545 1407.63040298], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [1891.63393077 1862.92008323], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1476.01003368 2163.35882369], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1977.10559358 1731.70823324], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [1977.10559358 1731.70823324], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 503.34779764 2491.69027307], weight = tensor([0.3570, 0.6430]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  16 -------------------- [0m
+process [<Process(Process-121, started)>, <Process(Process-122, started)>, <Process(Process-123, started)>, <Process(Process-124, started)>, <Process(Process-125, started)>, <Process(Process-126, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2014.39261881 1651.10674823], weight = tensor([ 1.0000e+00, -4.4409e-16]) [0m
+[96m objs = [1420.09613943 2181.75661091], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1680.5965953  2038.66814095], weight = tensor([ 1.0000e+00, -2.2204e-16]) [0m
+[96m objs = [ 502.14635571 2492.21384129], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1807.94307653 1936.31416841], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1037.03210387 2233.22778471], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  17 -------------------- [0m
+process [<Process(Process-127, started)>, <Process(Process-128, started)>, <Process(Process-129, started)>, <Process(Process-130, started)>, <Process(Process-131, started)>, <Process(Process-132, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1420.09613943 2181.75661091], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1680.5965953  2038.66814095], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [2020.14269552 1621.73929133], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1847.47833895 1927.39327406], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 501.54832672 2492.12022332], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1807.94307653 1936.31416841], weight = tensor([0.3660, 0.6340]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  18 -------------------- [0m
+process [<Process(Process-133, started)>, <Process(Process-134, started)>, <Process(Process-135, started)>, <Process(Process-136, started)>, <Process(Process-137, started)>, <Process(Process-138, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2029.66161154 1620.27568552], weight = tensor([ 1.0000e+00, -5.5511e-16]) [0m
+[96m objs = [1847.47833895 1927.39327406], weight = tensor([9.4941e-16, 1.0000e+00]) [0m
+[96m objs = [2048.09432545 1407.63040298], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1377.41636422 2191.65159747], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1975.61702899 1549.29135435], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [2015.07023846 1504.62325248], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  19 -------------------- [0m
+process [<Process(Process-139, started)>, <Process(Process-140, started)>, <Process(Process-141, started)>, <Process(Process-142, started)>, <Process(Process-143, started)>, <Process(Process-144, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2029.66161154 1620.27568552], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [2040.59497955 1589.97585642], weight = tensor([ 1.0000e+00, -5.5511e-16]) [0m
+[96m objs = [1342.30813351 2199.72057928], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [2040.59497955 1589.97585642], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 500.72346732 2493.91150601], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1540.10423558 2150.79949371], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  20 -------------------- [0m
+process [<Process(Process-145, started)>, <Process(Process-146, started)>, <Process(Process-147, started)>, <Process(Process-148, started)>, <Process(Process-149, started)>, <Process(Process-150, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2055.59843804 1566.16788849], weight = tensor([ 1.0000e+00, -5.5511e-16]) [0m
+[96m objs = [1270.91888554 2201.32133983], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1270.91888554 2201.32133983], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1984.31309178 1727.55211873], weight = tensor([7.2737e-16, 1.0000e+00]) [0m
+[96m objs = [ 499.95914513 2494.42785918], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1575.3736855  2140.84130392], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  21 -------------------- [0m
+process [<Process(Process-151, started)>, <Process(Process-152, started)>, <Process(Process-153, started)>, <Process(Process-154, started)>, <Process(Process-155, started)>, <Process(Process-156, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2055.19412657 1543.28166377], weight = tensor([ 1.0000e+00, -5.5511e-16]) [0m
+[96m objs = [1251.82972931 2207.76242458], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1609.11326345 2132.57813767], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [ 677.94842603 2407.31371852], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1206.23662993 2142.09892489], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1710.47801398 2030.37739706], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  22 -------------------- [0m
+process [<Process(Process-157, started)>, <Process(Process-158, started)>, <Process(Process-159, started)>, <Process(Process-160, started)>, <Process(Process-161, started)>, <Process(Process-162, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [2062.84020705 1525.93514455], weight = tensor([ 1.0000e+00, -5.5511e-16]) [0m
+[96m objs = [1209.89278787 2211.31009265], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [ 668.28739036 2424.78686622], weight = tensor([6.1232e-17, 1.0000e+00]) [0m
+[96m objs = [1667.2222077  2092.21644484], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1891.63393077 1862.92008323], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1737.84997195 2024.47747926], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  23 -------------------- [0m
+process [<Process(Process-163, started)>, <Process(Process-164, started)>, <Process(Process-165, started)>, <Process(Process-166, started)>, <Process(Process-167, started)>, <Process(Process-168, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1209.89278787 2211.31009265], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1746.63056924 2031.80894184], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1908.45408864 1860.68552724], weight = tensor([0.6340, 0.3660]) [0m
+[96m objs = [1746.63056924 2031.80894184], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 499.95914513 2494.42785918], weight = tensor([0.3570, 0.6430]) [0m
+[96m objs = [ 911.47337779 2278.46701776], weight = tensor([0.2113, 0.7887]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  24 -------------------- [0m
+process [<Process(Process-169, started)>, <Process(Process-170, started)>, <Process(Process-171, started)>, <Process(Process-172, started)>, <Process(Process-173, started)>, <Process(Process-174, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1074.92785226 2221.73367425], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 769.05368082 2336.09242589], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 499.53508643 2494.65460036], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1732.24837559 2050.2270295 ], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1917.87070021 1857.97980728], weight = tensor([0.5000, 0.5000]) [0m
+[96m objs = [1279.90884723 2209.66633446], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  25 -------------------- [0m
+process [<Process(Process-175, started)>, <Process(Process-176, started)>, <Process(Process-177, started)>, <Process(Process-178, started)>, <Process(Process-179, started)>, <Process(Process-180, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1230.98421578 2225.57492243], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [ 499.59192333 2495.13667833], weight = tensor([0.2000, 0.8000]) [0m
+[96m objs = [1230.98421578 2225.57492243], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [ 769.05368082 2336.09242589], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1898.61883664 1886.76829251], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1898.61883664 1886.76829251], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  26 -------------------- [0m
+process [<Process(Process-181, started)>, <Process(Process-182, started)>, <Process(Process-183, started)>, <Process(Process-184, started)>, <Process(Process-185, started)>, <Process(Process-186, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1936.59120924 1845.02366669], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1282.031072  2221.1230335], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1282.031072  2221.1230335], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1609.11326345 2132.57813767], weight = tensor([0.2113, 0.7887]) [0m
+[96m objs = [1732.24837559 2050.2270295 ], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [ 668.28739036 2424.78686622], weight = tensor([0.5000, 0.5000]) [0m
+[96m 
+-------------------- Evolutionary Stage: Generation  27 -------------------- [0m
+process [<Process(Process-187, started)>, <Process(Process-188, started)>, <Process(Process-189, started)>, <Process(Process-190, started)>, <Process(Process-191, started)>, <Process(Process-192, started)>]
+[96m Selected Tasks: [0m
+[96m objs = [1936.59120924 1845.02366669], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1282.031072  2221.1230335], weight = tensor([2.8328e-16, 1.0000e+00]) [0m
+[96m objs = [1282.031072  2221.1230335], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1732.24837559 2050.2270295 ], weight = tensor([0.7887, 0.2113]) [0m
+[96m objs = [1721.10424012 2061.69783673], weight = tensor([0.3660, 0.6340]) [0m
+[96m objs = [1609.11326345 2132.57813767], weight = tensor([0.3660, 0.6340]) [0m
