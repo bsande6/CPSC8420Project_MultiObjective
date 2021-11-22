@@ -1,4 +1,12 @@
 Brad Sanders
+#CSPC8420 Project Phase 3
+For this project I updated the existing PGMORL algorithm to select previously chosen tasks that demonstrated the best hypervolume and sparsity scores. The code for this can be found in the morl/morl.py file where the task selection algorithm is chosen as 'mix'. This calls the elite_prediction_guided_selection in the morl/population_2d.py file. The adjustments I made included tracking the fitness scores of the previous batch so that I could compare them to the newly selected batch chosen by the existing prediction guided selection. From here I could choose which of the previous elite tasks to keep by comparing the fitness scores. 
+
+An example to run the new algorithm on the walker2d environment.
+
+python scripts/walker2d-v2 --mix --num-seeds 1 --num-processes 1
+ 
+
 # CPSC8420 Project Phase2
 For this project I completed option B and extended an existing algorithm to a new environment.
 This repository contains the implementation of the paper [Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control] to the MountainCarContinuous environment from OPENAIGYM
