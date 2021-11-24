@@ -144,12 +144,7 @@ def run(args):
         elif args.selection_method == 'prediction-guided':
             elite_batch, scalarization_batch, predicted_offspring_objs = population.prediction_guided_selection(args, iteration, ep, opt_graph, scalarization_template)
         elif args.selection_method == 'mix':
-            #if episode % 5 != 4:
-            
             elite_batch, scalarization_batch, predicted_offspring_objs, fitness_scores = population.elite_prediction_guided_selection(args, iteration, ep, opt_graph, scalarization_template)
-            sorted_list = []
-            sorted_objs = []
-            length = len(elite_batch)
             
             for i in range (1, len(last_fitness_scores)-1):
                 for j in range(1, len(fitness_scores)-1):
